@@ -1,4 +1,4 @@
-# `''` (pronounced KuoteKuote) – a golfing language inspired by APL
+# `''` (pronounced KuoteKuote) – an APL golfing language
 
 APL was never meant to be a golfing language, but for other reasons it became very concise. This language is meant as a way of shortening APL as much as possible.
 
